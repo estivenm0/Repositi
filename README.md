@@ -3,8 +3,7 @@
 Repositi es una plataforma que recopila y comparte información sobre herramientas web útiles y recursos en línea. Proporciona a los usuarios una fuente confiable de herramientas y recursos que pueden facilitar su trabajo, mejorar su productividad y enriquecer su experiencia en línea.
 
 ## Demostración
-![Landing](./d0cs/repositi.test_.png)
-
+[![Texto Alternativo](./d0cs/repositi.test_.png)](https://youtu.be/JrGrcLe6LL0)
 
 ## Tecnologías Utilizadas
 - Laravel
@@ -14,7 +13,6 @@ Repositi es una plataforma que recopila y comparte información sobre herramient
 - MySQL
 
 ## DB
-
 ![DB](./d0cs/repositiDB.jpg)
 
 ## Características Destacadas
